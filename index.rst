@@ -5,4 +5,4 @@ Contenido:
    :maxdepth: 1
 
    atmosfera
-   hidrosfera
+   hidrosfera/intro
