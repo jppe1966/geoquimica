@@ -4,5 +4,5 @@ Contenido:
 .. toctree::
    :maxdepth: 1
 
-   atmosfera
+   atmosfera.md
    hidrosfera/intro.md
