@@ -1,6 +1,8 @@
-Intro
-=====
-Esto es para ver qué tal va...
+Contenido:
+-----------
 
-Contenidos
-----------
+.. toctree::
+   :maxdepth: 1
+
+   atmosfera
+   hidrosfera
